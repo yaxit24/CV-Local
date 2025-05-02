@@ -12,6 +12,7 @@ A Resume Customization tool that runs locally with Ollama models. This applicati
 - Uses Ollama to run LLMs locally
 - Supports multiple models (TinyLlama, Phi-2, Gemma, etc.)
 - Simple web interface built with React + Vite
+- Sending the customised CV for each Job/Internship increases your ATS score and your visibility among the other applicants.
 
 ## Setup Instructions
 
