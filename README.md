@@ -28,3 +28,8 @@ A Resume Customization tool that runs locally with Ollama models. This applicati
 - Vite
 - LangChain.js
 - Ollama
+## My Key Learnings 
+- Langchain, introduction to langGraph and LanhSmith
+- Linking the Ollama with a langchain.
+- Practice of try-catch, other fundamentals
+  
